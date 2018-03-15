@@ -1,5 +1,6 @@
 {
     "client_id":"264491234071.328745966979",
     "client_secret":"4778cefa4072afa4cd44f7c0cae72e49",
-    "scope":["bot","command"]
+    "scope":["bot","commands"],
+    "host":"https://lazy-jar-capdt.c9users.io"
 }
